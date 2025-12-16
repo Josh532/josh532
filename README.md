@@ -1,15 +1,29 @@
 ## Hi there 👋
+
 I'm Josh, a full stack developer from New Zealand!
+
 I am currently working on an ncea tracker app helping students across NZ track their credit goals.
+
 I am currently learning python, as I will be developing an ai chat bot for my ncea tracker.
 
 You can reach me via the contact section in my website www.joshmck.site
 
+Proficent
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+Nearly there
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+
+Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 
 <!--
