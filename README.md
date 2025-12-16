@@ -1,6 +1,14 @@
 ## Hi there 👋
-## I'm Josh
-test
+I'm Josh, a full stack developer from New Zealand!
+I am currently working on an ncea tracker app helping students across NZ track their credit goals.
+I am currently learning python, as I will be developing an ai chat bot for my ncea tracker.
+
+You can reach me via the contact section in my website www.joshmck.site
+
+Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 <!--
 **Josh532/josh532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
