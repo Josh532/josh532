@@ -6,6 +6,8 @@ I am currently working on an ncea tracker app helping students across NZ track t
 
 I am currently learning python, as I will be developing an ai chat bot for my ncea tracker.
 
+My most impressive past project is scam aware, a school project I created as I was scammed on facebook, scam aware prevents scams from happening as previously reported scammers usernams and details are stored in the database, preventing users from being scammed by them again!
+
 You can reach me via the contact section in my website www.joshmck.site
 
 Proficent
