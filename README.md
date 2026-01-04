@@ -2,7 +2,7 @@
 
 I'm Josh, a full stack developer from New Zealand!
 
-I am currently working on an ncea tracker app helping students across NZ track their credit goals.
+I am currently working on an ncea tracker app helping students across NZ track their credit goals, currently the project's prototype is nearing completion, with the fundementals complete, the current designs ui just needs work.
 
 I am currently learning python, as I will be developing an ai chat bot for my ncea tracker.
 
