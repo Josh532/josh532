@@ -2,11 +2,9 @@
 
 I'm Josh, a full stack developer from New Zealand!
 
-I am currently working on an ncea tracker app helping students across NZ track their credit goals, currently the project's prototype is nearing completion, with the fundementals complete, the current designs ui just needs work.
+I am currently exploring machine learning and ai / llm creation.
 
-I am currently learning python, as I will be developing an ai chat bot for my ncea tracker.
-
-My most impressive past project is scam aware, a school project I created as I was scammed on facebook, scam aware prevents scams from happening as previously reported scammers usernams and details are stored in the database, preventing users from being scammed by them again!
+My latest project is train 9, which is an ai model that tracks aircraft in the take off and landing phase
 
 You can reach me via the contact section in my website www.joshmck.site
 
